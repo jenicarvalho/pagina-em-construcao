@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,IAAI,WAAW,CAAC,SAAS,EAAE;;AAE3B;CACC,uBAAuB;CACvB","file":"style.css","sourcesContent":["* { padding: 0; margin: 0 }\r\n\r\nsection {\r\n\tbackground-color: #333; \r\n}"]}
